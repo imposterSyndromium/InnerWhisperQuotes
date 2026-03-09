@@ -1,0 +1,25 @@
+{
+  "quotes": [
+    {
+      "id": "A1B2C3D4-E5F6-7890-1234-567890ABCDEF",
+      "displayNumber": 101,
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "category": "Stoicism"
+    },
+    {
+      "id": "B2C3D4E5-F6A7-8901-2345-67890BCDEF12",
+      "displayNumber": 102,
+      "text": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "category": "Stoicism"
+    },
+    {
+      "id": "C3D4E5F6-A7B8-9012-3456-7890CDEF1234",
+      "displayNumber": 103,
+      "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
+      "category": "Stoicism"
+    }
+  ]
+}
