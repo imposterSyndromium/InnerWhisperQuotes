@@ -1,0 +1,284 @@
+{
+  "quotes": [
+    {
+      "id": "52fdb1bf-6b3f-464b-a702-1034b07718df",
+      "displayNumber": 1,
+      "text": "RESILIENT\nStay as strong as evergreen trees.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "cc699f68-f44b-4026-9d20-2d330309a45c",
+      "displayNumber": 2,
+      "text": "TRUST\nThe robin trusts her wings, not the branch she sits on.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "5c82f882-d004-4d60-9b5e-7dcbff34d3b9",
+      "displayNumber": 3,
+      "text": "UNCERTAINTY\nThe shades of grey within the fog will eventually lift.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "33730366-2f8a-4990-911b-cfe2ab2c6f05",
+      "displayNumber": 4,
+      "text": "LEARN\nTake a lesson from the owls; deeply observe the night, and you'll become a little wiser in the day.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "e7223715-9bf5-40f3-813e-5925778ab67a",
+      "displayNumber": 5,
+      "text": "WOODS\nBe like the woods—calm, soothing, mysterious and full of life.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "560cd179-dfb0-4d69-aebd-214ef5d3d6b9",
+      "displayNumber": 6,
+      "text": "FORBEARANCE\nDo not be deterred by the thorn amidst the roses.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "a34d52c5-3fff-4372-9e12-29a4e2efd175",
+      "displayNumber": 7,
+      "text": "LET GO\nEnjoy the pulsing light of the firefly but don't hold on too tight.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "0e1b665c-58e2-421f-b75d-27af48463eaf",
+      "displayNumber": 8,
+      "text": "LIGHT\nLook to the space between the trees for answers.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "5ddd6a59-688b-4933-a94b-1ad1489d1de7",
+      "displayNumber": 9,
+      "text": "SURPRISES\nUnder the most ordinary stone is an undisturbed garden.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "2a5a3e4c-bd33-446f-a258-d7e56555f618",
+      "displayNumber": 10,
+      "text": "ORIGINS\nRemember your roots.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "ffd0959d-0d0a-4cd9-a77f-0d94afbf963f",
+      "displayNumber": 11,
+      "text": "PATH\nWander on the path less travelled; what you find might surprise you.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "dd1da4c2-050f-4912-b7d0-d3eed86219e5",
+      "displayNumber": 12,
+      "text": "PATIENCE\nEverything can be accomplished at nature's pace.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "309cd53d-50de-4645-94a4-3bbd725dc57a",
+      "displayNumber": 13,
+      "text": "RECONNECT\nSecrets lurk in the captive shadows deep in the woods.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "5ad85f9c-6070-4c53-bb27-67d10dbb4bb1",
+      "displayNumber": 14,
+      "text": "RENEW\nNature continuously renews itself, year after year.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "d8c3be77-5231-4294-8629-d76860464724",
+      "displayNumber": 15,
+      "text": "ADVENTURE\nLive wild and free.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "c29acf76-956f-46a3-b657-3b4b8fd5efc1",
+      "displayNumber": 16,
+      "text": "CAUTION\nTread softly so as not to disturb the woodland floor.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "5172134c-18db-452f-a162-57e990fbdae8",
+      "displayNumber": 17,
+      "text": "CHANGE\nFalling leaves do not signify the end, but the beginning of a fruitful season.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "3536845d-7d87-4389-9376-1aefa721a50d",
+      "displayNumber": 18,
+      "text": "CLEANSE\nWash your weary spirit clean and take a walk in the wooded glades.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "0f337f80-076d-4843-bcb2-5ee33de95590",
+      "displayNumber": 19,
+      "text": "CLEARING\nMake room for growth.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "eee0d95d-5d80-465b-b84d-cdc95172425a",
+      "displayNumber": 20,
+      "text": "DANCE\nAllow yourself some fun each day, just as the sun dances with the moon each night.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "fee0b3c2-5fdb-4026-b4bb-adac08c907fd",
+      "displayNumber": 21,
+      "text": "FLOW\nGo with the flow as water trickles down a stream. Do not hurry.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "601102bc-30d8-442e-9aba-ebb3e049dee7",
+      "displayNumber": 22,
+      "text": "FRIENDS\nThe most unlikely friendships can form; like variegated lichens on hard rock, they create a tight bond.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "056c22c9-1c7f-431e-8af9-fd522c67f42e",
+      "displayNumber": 23,
+      "text": "GROUNDED\nKeep to your roots and stand taller than the trees.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "5f61827a-bb79-4c9f-9ea9-f023b47cd0d9",
+      "displayNumber": 24,
+      "text": "GROWTH\nThe tallest oak tree once started as a seedling. Don't be afraid to start something new.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "f395a02f-26c5-4f1f-a9ec-ed9c2da4689d",
+      "displayNumber": 25,
+      "text": "HOPE\nAn idea, like a single acorn, can start a wondrous forest.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "f43a5713-ddec-4bfa-9f66-127370298e39",
+      "displayNumber": 26,
+      "text": "HUMILITY\nFlowers are unaware of each other's beauty; they bloom regardless.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "b98e676f-ee1e-4d18-8d55-571818ddc118",
+      "displayNumber": 27,
+      "text": "OPPORTUNITIES\nUnfurl like a fern even without warm sunlight.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "82bc52ca-1585-4dc1-a8d6-b9cae9e86b7d",
+      "displayNumber": 28,
+      "text": "MUSIC\nThere is a melody to be heard in the deepest parts of the woods, if only we listen.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "0dadde63-48b9-4877-ae6d-b6380b8c7f76",
+      "displayNumber": 29,
+      "text": "IDYLL HOURS\nTake some time out to lie on the emerald grass.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "824009eb-6a39-41cf-98fd-d4dea8287a4b",
+      "displayNumber": 30,
+      "text": "JOURNEY\nBranch out to new worlds.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "afc56e4d-221f-4923-80c4-a3b8fb0476f1",
+      "displayNumber": 31,
+      "text": "JOY\nSpread seeds of joy like a wildflower and, no doubt, you will revel in the result.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "c860ddf9-738b-4767-84d3-fa2f2e436065",
+      "displayNumber": 32,
+      "text": "KINDNESS\nTake respite by a pond and be kind to yourself and others.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "932c2943-00b3-42a8-827f-4e884c9b3553",
+      "displayNumber": 33,
+      "text": "RISK\nLearn to grow wherever you are planted.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "048fc5b2-e1a1-41cb-9378-0f89341ca15c",
+      "displayNumber": 34,
+      "text": "STRENGTH\nWhen your roots are deep, you need not fear the storm.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "d06104b9-41e6-4826-8646-a1c92d12af40",
+      "displayNumber": 35,
+      "text": "WISH\nMake a wish with a dandelion in the wind.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "95a77c60-4314-4f30-a5de-33c8202c2cdb",
+      "displayNumber": 36,
+      "text": "TEACH\nInspire others and let nature be your greatest teacher.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "efa56e5a-6d3e-4dc8-8e3e-751970bb5fd7",
+      "displayNumber": 37,
+      "text": "THE NIGHT\nFind comfort in the night, where the world switches off and the stars burn bright.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "b7cd6e63-9577-4f5c-8b2d-26d1f1f1ce4a",
+      "displayNumber": 38,
+      "text": "TRANSFORM\nEmerge with beauty and grace from your cocoon.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "b3da418b-ac9a-4dee-be9f-45580ef285b6",
+      "displayNumber": 39,
+      "text": "TIME\nEmbrace the dew drops of life before they disappear with the morning sun.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    },
+    {
+      "id": "bf7d1c0b-962f-4c43-b984-ed79d1fe713a",
+      "displayNumber": 40,
+      "text": "RETREAT\nSpoil yourself in the morning mist. Breathe in nature's sweet scents.",
+      "author": "Unknown",
+      "category": "Forest Whispers"
+    }
+  ]
+}
